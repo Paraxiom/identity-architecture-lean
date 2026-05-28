@@ -1,0 +1,43 @@
+Identity as Accountability Chain — Lean 4 formalization
+Copyright 2025–2026 Sylvain Cormier, Neocarbone Inc., and Paraxiom Technologies Inc.
+
+This work was conducted in scope of Sylvain Cormier's research and
+engineering role at Neocarbone Inc. It is co-attributed to Neocarbone Inc.
+(as the scoping organization) and Paraxiom Technologies Inc. (as the
+publication venue and post-quantum-cryptography research lineage). Sole
+authorship is retained by Sylvain Cormier as the individual researcher.
+
+This repository contains the Lean 4 formalization of the seven principal
+theorems described in the companion treatise:
+
+  https://github.com/Paraxiom/identity-architecture
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+------------------------------------------------------------------------------
+
+Acknowledgments:
+
+  - Isaac Mao, for the hypergraph identity generalization concept developed
+    in § 2.7 of the companion treatise. The framing of higher-arity
+    relational structures (joint authorship, committee-ratifies-charter,
+    multi-party agreements as first-class identity facts) was prompted by
+    a conversation with him. The hypergraph generalization is not yet
+    formalized in this Lean repository; it is a planned extension once
+    the binary-relation theorems are stable. When that formalization
+    lands, the credit will carry forward into the Lean module.
+
+------------------------------------------------------------------------------
+
+Companion artifacts:
+
+  - Treatise (TeX source + compiled PDF):
+    https://github.com/Paraxiom/identity-architecture
+
+  - Open-access publication:
+    https://zenodo.org/records/20328038
+
+------------------------------------------------------------------------------
+
+Contact:
+  Sylvain Cormier — scormier@neocarbone.ai (Neocarbone) / sylvain@paraxiom.org (Paraxiom)

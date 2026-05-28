@@ -80,6 +80,28 @@ IdentityArchitecture/
   Verify.lean                   — ActionAttempt + Verdict + verification_time_accountability
 ```
 
+## Acknowledgments
+
+- **Isaac Mao**, for the hypergraph identity generalization concept
+  developed in § 2.7 of the companion treatise. The framing of
+  higher-arity relational structures (joint authorship,
+  committee-ratifies-charter, multi-party agreements as first-class
+  identity facts) was prompted by a conversation with him. The
+  hypergraph generalization is not yet formalized in this Lean
+  repository; it is a planned extension once the binary-relation
+  theorems are stable. When that formalization lands, the credit will
+  carry forward into the Lean module.
+
+## Attribution
+
+This work was conducted in scope of Sylvain Cormier's research at
+Neocarbone Inc.\ and is co-attributed to **Neocarbone Inc.** (scope)
+and **Paraxiom Technologies Inc.** (publication venue and post-quantum
+cryptography research lineage). Sole authorship is retained by the
+individual researcher.
+
+See `NOTICE` for the full attribution + acknowledgments record.
+
 ## License
 
 Apache License 2.0. See `LICENSE`.
